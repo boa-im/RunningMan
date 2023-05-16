@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/fonts/font.spritefont</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/fonts/scoreFont.spritefont</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/background.jpeg</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/greenbutton.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/individualScoreBoard.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/Load.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/obstacle.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/pause.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/replay.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/images/runningman.png</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/sounds/bgm.mp3</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/sounds/clap.mp3</File>
+    <File>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/sounds/Die.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

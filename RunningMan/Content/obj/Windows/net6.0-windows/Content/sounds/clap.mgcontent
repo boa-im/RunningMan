@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/sounds/clap.mp3</SourceFile>
+  <SourceTime>2022-12-08T19:59:56-05:00</SourceTime>
+  <DestFile>C:/Users/Hojin Kang/OneDrive - Conestoga College/Boa/BIFinalProject/RunningMan/Content/bin/Windows/Content/sounds/clap.xnb</DestFile>
+  <DestTime>2022-12-09T13:44:22.9535649-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
